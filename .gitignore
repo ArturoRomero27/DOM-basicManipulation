@@ -8,6 +8,10 @@
 
 #Ingore specific files 
 .variables.js
+.variables
+
+
+<C:\Users\Arthu\Desktop\PROGRAMMING\Javascript\Platzi\Curso Practico de Javascript\variables.js>
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
